@@ -1,0 +1,16 @@
+{
+  "name": "file_metadata",
+  "version": "1.0.0",
+  "description": "Free Code Camp File Metadata Microservice",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
